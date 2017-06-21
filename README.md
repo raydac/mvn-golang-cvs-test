@@ -1,2 +1,2 @@
 # mvn-golang-cvs-test
-A Teest project for [mvn-golang plugin](https://github.com/raydac/mvn-golang) to check its work with CVS attributes of dependencies.
+A Test project for [mvn-golang plugin](https://github.com/raydac/mvn-golang) to check its work with CVS attributes of dependencies.
