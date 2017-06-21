@@ -1,5 +1,5 @@
 package mvngolangcvstest
 
 func GetSomeText() string {
-	return "some_text"
+	return "some_text_999"
 }
